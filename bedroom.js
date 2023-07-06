@@ -1,5 +1,6 @@
 img = "";
 Status = "";
+objects = "";
 function setup(){
     canvas = createCanvas(640,430);
     canvas.center();
